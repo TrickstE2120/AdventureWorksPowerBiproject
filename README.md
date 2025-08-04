@@ -2,7 +2,7 @@
 Practise PowerBI Project 
 An interactive business intelligence dashboard built with Microsoft Power BI using the fictional AdventureWorks dataset. The project showcases a complete BI reporting workflow, from data preparation to insight generation, focused on sales and customer analytics for a global cycling equipment manufacturer.
 
-Tools and Techniques
+#Tools and Techniques
 
 Power BI Desktop (Maven Analytics course dataset)
 
@@ -12,7 +12,7 @@ DAX (Calculated Columns and Measures)
 
 Relational Data Modeling
 
-Dataset Overview
+#Dataset Overview
 
 Time Period: Jan 2020 to Jun 2022
 
@@ -20,7 +20,7 @@ Regions: Australia, Canada, France, Germany, United Kingdom, United States
 
 Data includes sales, returns, and customer demographics
 
-Key Dashboard Features
+#Key Dashboard Features
 
 Executive Summary with KPIs for revenue, profit, orders, and returns, plus drill-through capability
 
@@ -32,7 +32,7 @@ Customer Detail View highlighting revenue by customer profile
 
 Custom UI elements including filter panes and tooltips
 
-Insights
+#Insights
 
 Approximately $24.9 million in revenue and $10.5 million in profit over the period
 
